@@ -1,4 +1,4 @@
-# runAnalysis.r File Description:
+# runAnalysis.r
 # clearning environment variables
 rm(list=ls())
 

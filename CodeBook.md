@@ -17,4 +17,4 @@
 - Reassigning the new descriptive column names to PSFinalData 
 
 ###5. To create a second, independent tidy data set with the average of each variable for each activity and each subject. 
--Create PSFinalDataNoactivityLabels, summarize and include mean of each variable for each activity and each subject and export it to PStidyData.txt
+- Create PSFinalDataNoactivityLabels, summarize and include mean of each variable for each activity and each subject and export it to PStidyData.txt
